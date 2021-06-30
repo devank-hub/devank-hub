@@ -16,12 +16,12 @@ Connect with me
 Expertise
 <br>
 <br>
-<a href="#" style.marginBottom = "50px"><img align="left" alt="php" src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/></a>
-<a href="#" style.marginBottom = "50px"><img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
-<a href="#" style.marginBottom = "50px"><img align="left" alt="python" src="https://img.shields.io/badge/python-776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
-<a href="#" style.marginBottom = "50px"><img align="left" alt="c++" src="https://img.shields.io/badge/c%20plusplus-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
-<a href="#" style.marginBottom = "50px"><img align="left" alt="c" src="https://img.shields.io/badge/c%20programming-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/></a>
-<a href="#" style.marginBottom = "50px"><img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
-<a href="#" style.marginBottom = "50px"><img align="left" alt="html5" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
-<a href="#" style.marginBottom = "50px"><img align="left" alt="css3" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a href="#" style="marginBottome=5px"><img align="left" alt="php" src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/></a>
+<a href="#" style="marginBottome=5px"><img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
+<a href="#" style="marginBottome=5px"><img align="left" alt="python" src="https://img.shields.io/badge/python-776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="#" style="marginBottome=5px"><img align="left" alt="c++" src="https://img.shields.io/badge/c%20plusplus-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
+<a href="#" style="marginBottome=5px"><img align="left" alt="c" src="https://img.shields.io/badge/c%20programming-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/></a>
+<a href="#" style="marginBottome=5px"><img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a href="#" style="marginBottome=5px"><img align="left" alt="html5" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="#" style="marginBottome=5px"><img align="left" alt="css3" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
 <br>
