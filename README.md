@@ -22,4 +22,6 @@ Expertise
 <a href=#><img align="left" alt="c++" src="https://img.shields.io/badge/c%20plusplus-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
 <a href=#><img align="left" alt="c" src="https://img.shields.io/badge/c%20programming-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/></a>
 <a href=#><img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a href=#><img align="left" alt="html5" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href=#><img align="left" alt="css3" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
 <br>
