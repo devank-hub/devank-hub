@@ -13,7 +13,7 @@ Connect with me
 <a href="https://twitter.com/anks095"><img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <br>
 <br>
-## Expertise
+Expertise
 <br>
 <br>
 <a href=#><img align="left" alt="php" src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/></a>
