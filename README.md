@@ -1,9 +1,10 @@
 ### Hello World 👋
-I am a fullstack software engineer from bangladesh
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
+I am a fullstack software engineer from India
+- 🔭 Working on multiple frontend and backend projects using Nodejs,html,mysql,php also learning new languages like react, python
+- 🌱 Learning new things in depth
 <br>
 ## Connect with me
+<br>
 <br>
 <a href="https://www.linkedin.com/in/ankur-sarkar-0350a334/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@anks095"><img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
@@ -14,7 +15,8 @@ I am a fullstack software engineer from bangladesh
 <br>
 ## Expertise
 <br>
-<a href=#><img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
+<br>
+<a href=#><img align="left" alt="php" src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/></a>
 <a href=#><img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
 <a href=#><img align="left" alt="python" src="https://img.shields.io/badge/python-776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
 <a href=#><img align="left" alt="c++" src="https://img.shields.io/badge/c%20plusplus-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
