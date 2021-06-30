@@ -3,7 +3,7 @@ I am a fullstack software engineer from India
 - 🔭 Working on multiple frontend and backend projects using Nodejs,html,mysql,php also learning new languages like react, python
 - 🌱 Learning new things in depth
 <br>
-## Connect with me
+<a href=#><img align="left" alt="php" src="https://img.shields.io/badge/add/connect-FF6550FF6550.svg?&style=for-the-badge&logo=addthis&logoColor=white"/></a> Connect with me
 <br>
 <br>
 <a href="https://www.linkedin.com/in/ankur-sarkar-0350a334/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
