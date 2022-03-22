@@ -16,7 +16,7 @@ Connect with me
 Expertise
 <br>
 <br>
-<a href="#"><img align="left" alt="php" src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" style="margin-block:18px"/></a>
+<a href="#"><img align="left" alt="php" src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" style="margin-block:18px; margin-bottom:5px"/></a>
 <a href="#"><img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" style="margin-block:18px"/></a>
 <a href="#"><img align="left" alt="python" src="https://img.shields.io/badge/python-776AB.svg?&style=for-the-badge&logo=python&logoColor=white" style="margin-block:18px"/></a>
 <a href="#"><img align="left" alt="c++" src="https://img.shields.io/badge/c%20plusplus-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" style="margin-block:18px"/></a>
