@@ -149,8 +149,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=devank-hub&show_icons=true&theme=radical" align="center" /></div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devank-hub&layout=compact&theme=radical" align="center" /></div>
+<div class="row">
+  <div class="column" align="center"><img src="https://github-readme-stats.vercel.app/api?username=devank-hub&show_icons=true&theme=radical" align="center"/></div>
+  <div class="column" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devank-hub&layout=compact&theme=radical" align="center"/></div>
+</div>
 <br/>
 
 
@@ -172,16 +174,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devank-hub&repo=AnksForum" />
 </a> -->
   
-
-<br/>  
-<div class="row">
-  <div class="column">
-   <img src="https://spotify-github-profile.vercel.app/api/view?uid=9h39jta9skf7andzoxzhjn9wx&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false"/>
-  </div>
-  <div class="column">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devank-hub&layout=compact&theme=radical"/>
-  </div>
-</div>
 <br/>  
 
 <div align="center">
