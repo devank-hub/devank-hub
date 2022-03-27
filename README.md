@@ -150,8 +150,8 @@
 
 ## Github Stats  
 <div class="row">
-  <div class="column" align="center"><img src="https://github-readme-stats.vercel.app/api?username=devank-hub&show_icons=true&theme=radical" align="center"/></div>
-  <div class="column" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devank-hub&layout=compact&theme=radical" align="center"/></div>
+  <div class="column"><img src="https://github-readme-stats.vercel.app/api?username=devank-hub&show_icons=true&theme=radical"/></div>
+  <div class="column"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devank-hub&layout=compact&theme=radical"/></div>
 </div>
 <br/>
 
