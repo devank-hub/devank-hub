@@ -11,7 +11,7 @@ npx anmol
 ```
 **👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
-### <img src="https://github.com/devank-hub/npx-card/blob/master/images/card.png" width="500"> A little more about me...  
+### <img src="https://github.com/devank-hub/npx-card/blob/master/images/card.png" width="700"><br/> A little more about me...  
 
 <br/>
 ## 🛠️ My favorite tools
