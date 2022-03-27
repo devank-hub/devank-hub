@@ -4,7 +4,16 @@
 
 <br/>  
 
+👇 Hit in your console or terminal to connect with me.
 
+```bash
+npx anmol
+```
+**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+
+### <img src="https://github.com/devank-hub/npx-card/blob/master/images/card.png" width="50"> A little more about me...  
+
+<br/>
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
