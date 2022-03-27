@@ -14,7 +14,7 @@ npx dev-ank
 **## Screenshot ##**
 <p align="center" width="100%"><img src="https://github.com/devank-hub/npx-card/blob/master/images/card.png" width="700"></p><br/> A little more about me...  
 
-<br/>
+<br/><br/>
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
