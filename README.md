@@ -174,11 +174,14 @@
   
 
 <br/>  
-
-<div align="center">
- <img src="https://spotify-github-profile.vercel.app/api/view?uid=9h39jta9skf7andzoxzhjn9wx&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devank-hub&layout=compact&theme=radical" align="center" />
-</div>  
+<div class="row">
+  <div class="column" align="center">
+   <img src="https://spotify-github-profile.vercel.app/api/view?uid=9h39jta9skf7andzoxzhjn9wx&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false"/>
+  </div>
+  <div class="column" alighn="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devank-hub&layout=compact&theme=radical" align="center" />
+  </div>
+</div>
 <br/>  
 
 <div align="center">
