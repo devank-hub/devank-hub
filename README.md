@@ -175,8 +175,10 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=9h39jta9skf7andzoxzhjn9wx&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" /></div>  
-
+<div align="center">
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=9h39jta9skf7andzoxzhjn9wx&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devank-hub&layout=compact&theme=radical" align="center" />
+</div>  
 <br/>  
 
 <div align="center">
