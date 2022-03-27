@@ -1,15 +1,8 @@
  <img src="images/header_en.svg"></img>
  ### <div align="center">I'm Ankur, a full-time full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
-  
 
-- ***🔭 I’m currently working on [Express](https://github.com/devank-hub/express-project)***  
-  
 
-- ***🌱 I’m currently learning NodeJS and ExpressJS along with TypeScript***  
-  
-
-- ***⚡ Fun fact: I use tabs over spaces***  
-  
+<div><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&duration=6000&color=0E37F7&center=true&vCenter=true&lines=Hey%2C+you+can+call+me+Ank;I+am+a+full-stack+developer;with+passion+for+software+developing;now+working+with+Node+%26+express;Now+working+from+home;always+learning+new+things;check+out+below+for+more+info"/></div>
 
 <br/>  
 
