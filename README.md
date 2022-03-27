@@ -7,7 +7,7 @@
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx anmol
+npx dev-ank
 ```
 **👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
