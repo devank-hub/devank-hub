@@ -108,7 +108,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div>
 <a href="https://github.com/devank-hub" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -167,14 +167,14 @@
   
 <br/>  
 
-<div align="center">
+<div>
 <img src="https://komarev.com/ghpvc/?username=devank-hub&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
 
-<div align="center">
+<div>
             <a href="https://paypal.me/anks095" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
