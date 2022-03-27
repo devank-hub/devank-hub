@@ -11,7 +11,7 @@ npx dev-ank
 ```
 **👆 This command line tool can be found at [npx dev-ank](https://github.com/devank-hub/npx-card)**
 
-### <img src="https://github.com/devank-hub/npx-card/blob/master/images/card.png" width="700" align="middle"><br/> A little more about me...  
+### <p align="center" width="100%"><img src="https://github.com/devank-hub/npx-card/blob/master/images/card.png" width="700"></p><br/> A little more about me...  
 
 <br/>
 ## 🛠️ My favorite tools
