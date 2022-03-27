@@ -168,23 +168,18 @@
 <br/>  
 
 <div>
-<img src="https://komarev.com/ghpvc/?username=devank-hub&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=devank-hub&&style=flat-square"/>
 </div>  
   
 
 <br/>  
 
 <div>
-            <a href="https://paypal.me/anks095" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/devank" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
+  <a href="https://paypal.me/anks095" target="_blank" style="display: inline-block;">
+      <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/devank" target="_blank" style="display: inline-block;">
+      <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"/>
+  </a>
+</div>
 <br />
