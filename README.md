@@ -150,7 +150,8 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=devank-hub&show_icons=true&theme=radical" align="center" /></div>
-<br/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devank-hub&layout=compact&theme=radical" align="center" /></div>
+<br/>
 
 
 ## My Open-Source Repos
