@@ -149,7 +149,7 @@
 
 
 ## Github Stats  
-<div align="center">![Ank's GitHub stats](https://github-readme-stats.vercel.app/api?username=devank-hub&show_icons=true&theme=radical)</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" align="center" /></div>
 <br/>  
 
 
