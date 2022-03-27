@@ -1,4 +1,4 @@
- <img src="images/svg/header_pt.svg"></img>
+ <img src="images/header_pt.svg"></img>
  ### <div align="center">I'm Ankur, a full-time full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
