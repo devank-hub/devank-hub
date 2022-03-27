@@ -122,7 +122,7 @@ npx dev-ank
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/15414291/ankur-sarkar)](https://stackoverflow.com/users/15414291/ankur-sarkar)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:anks095@gmail.com)
 [![Twitter Badge](https://img.shields.io/twitter/url?color=grey&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter%2Fanks095)](https://twitter.com/anks095/)
-[![Medium Badge](https://img.shields.io/badge/-medium-black?url=medium.com/@anks095&?style=flat-square&logo=medium)](https://medium.com/@anks095)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white?url=medium.com/@anks095)](https://medium.com/@anks095)
   
 
 <br/>  
