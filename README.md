@@ -1,8 +1,4 @@
-<div align="center">
-<img src="/images/header_en.svg" align="center" style="height: 360px; width: 680px" />
-</div>  
-  
-
+<img src="/images/header_en.svg" align="center" style="height: 360px; width: 680px" />   
 ### <div align="center">I'm Ankur, a full-time full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
