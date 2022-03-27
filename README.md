@@ -1,6 +1,6 @@
  <img src="images/header_en.svg"></img>
  
-<div><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=30&duration=6000&width=600&height=60&color=0E37F7&lines=Hey%2C+you+can+call+me+Ank;I+am+a+full-stack+developer;with+passion+for+software+developing;and+working+with+Node+%26+express;Now+working+from+home;always+learning+new+things;check+out+below+for+more+info"/></div>
+<div><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=30&duration=6000&width=600&height=60&color=0E37F7&lines=Hey%2C+Welcome+to+my+profile;you+can+call+me+Ank;I+am+a+full-stack+developer;with+passion+for+software+developing;and+working+with+Node+%26+express;Now+working+from+home;always+learning+new+things;check+out+below+for+more+info"/></div>
 
 <br/>  
 
