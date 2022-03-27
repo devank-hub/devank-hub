@@ -168,7 +168,7 @@
 <br/>  
 
 <div>
-<img src="https://komarev.com/ghpvc/?username=devank-hub&&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=devank-hub&style=flat-square"/>
 </div>  
   
 
