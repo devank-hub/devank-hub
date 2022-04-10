@@ -140,7 +140,7 @@ npx dev-ank
 ## My Open-Source Repos
 <div style="margin-bottom:5px">
   <a href="https://github.com/devank-hub/express-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devank-hub&repo=express-with-node16-MVC&theme=radical"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devank-hub&repo=express-with-node-MVC&theme=radical"/>
   </a>
   <a href="https://github.com/devank-hub/weirdtrex">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devank-hub&repo=weirdtrex&theme=radical"/>
