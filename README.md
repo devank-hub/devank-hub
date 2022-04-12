@@ -154,9 +154,6 @@ npx dev-ank
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devank-hub&repo=nasamc-project&theme=radical"/>
   </a>
 </div>
-<!-- <a href="https://github.com/devank-hub/AnksForum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devank-hub&repo=AnksForum" />
-</a> -->
   
 <br/>  
 
